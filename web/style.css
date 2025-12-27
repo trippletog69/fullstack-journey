@@ -13,3 +13,18 @@ body {
 .container {
   text-align: center;
 }
+
+@media (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+
+  button {
+    width: 100%;
+    font-size: 18px;
+  }
+}
