@@ -1,3 +1,3 @@
 # Fullstack Journey 🚀
-Building from zero to professional full-stack developer on Linux.
+My clean, correct linux workspace for becoing a professional full-stack developer.
 
